@@ -190,3 +190,17 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.padre {
+  /* IMPORTANTE */
+  text-align: center;
+}
+
+.hijo {
+  background-color: yellow;
+  padding: 10px;
+  margin: 10px;
+  
+  /* IMPORTANTE */
+  display: inline-block;
+}
