@@ -1,0 +1,151 @@
+{
+  "icons": [
+    {
+      "name": "azure",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azure/azure-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "amazonwebservices",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/amazonwebservices/amazonwebservices-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "terraform",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/terraform/terraform-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "azuredevops",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/azuredevops/azuredevops-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "git",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/git/git-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "github",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/github/github-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "docker",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/docker/docker-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "java",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/java/java-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "spring",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/spring/spring-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "react",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/react/react-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "angular",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/angular/angular-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "vuejs",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/vuejs/vuejs-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "flutter",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/flutter/flutter-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "python",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/python/python-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "javascript",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/javascript/javascript-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "postgresql",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/postgresql/postgresql-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "microsoftsqlserver",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/microsoftsqlserver/microsoftsqlserver-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "firebase",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/firebase/firebase-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "sonarqube",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/sonarqube/sonarqube-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "dotnetcore",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/dotnetcore/dotnetcore-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "php",
+      "url": "https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/php/php-original.svg",
+      "source": "Devicon",
+      "ok": true
+    },
+    {
+      "name": "n8n",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/n8n.svg",
+      "source": "Simple Icons",
+      "ok": true
+    },
+    {
+      "name": "snyk",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/snyk.svg",
+      "source": "Simple Icons",
+      "ok": true
+    },
+    {
+      "name": "appdynamics",
+      "source": "Simple Icons",
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "font": "https://api.fontshare.com/v2/css?f[]=switzer@400,500&display=swap",
+  "devicon_revision": "32fe1d3b3f36ad11f90ab94f7db59738139c2bf6",
+  "simpleicons_revision": "90646e4bf7f3b89df6c37e65baf3e7bc759a517c"
+}

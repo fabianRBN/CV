@@ -1,0 +1,19 @@
+/* Switzer */
+@font-face {
+  font-family: 'Switzer';
+  src: url("9a2d8a3ead8e46ad.woff2") format('woff2'),
+       url("30f508d8f046e458.woff") format('woff'),
+       url("bc35b564e3a2df27.ttf") format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Switzer';
+  src: url("008de4ce00269eef.woff2") format('woff2'),
+       url("a4a97be52a584b5b.woff") format('woff'),
+       url("3c1d9c1d967a6130.ttf") format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
